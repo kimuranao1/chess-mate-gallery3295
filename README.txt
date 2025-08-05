@@ -38,3 +38,6 @@
 
 ご質問やご要望はkmrno.dmism@gmail.comへお願いします。
 
+
+zenodoでの全データ３２９５種です (https://zenodo.org/records/16749162)
+
