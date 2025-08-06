@@ -1,4 +1,5 @@
 # Chess Mate SVG Gallery
+https://kimuranao1.github.io/chess-mate-gallery400/
 
 このリポジトリは、チェスの詰み局面を可視化したSVG画像のコレクションです。  
 `mate_svgs` ディレクトリに400枚の詰み局面SVGが収録されており、`pages` フォルダには分割表示用のHTMLが含まれています。
@@ -40,4 +41,5 @@
 
 
 zenodoでの全データ３２９５種です (https://zenodo.org/records/16749162)
+
 
