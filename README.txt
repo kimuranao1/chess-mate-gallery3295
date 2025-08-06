@@ -1,7 +1,7 @@
 # Chess Mate SVG Gallery
 https://kimuranao1.github.io/chess-mate-gallery400/
 
-このリポジトリは、チェスの（あるいみ）詰み局面（注！！！厳重には詰み直前ではなく、敵の移動範囲によって包囲されてしまったキングの図）を可視化したSVG画像のコレクションです。  
+このリポジトリは、チェスの（あるいみ）詰み局面（注！！！厳重には詰み直前ではなく、敵の移動範囲によって包囲されてしまったキングの図）、合法手による遅延チェックメイトを可視化したSVG画像のコレクションです。  
 `mate_svgs` ディレクトリに400枚の詰み局面SVGが収録されており、`pages` フォルダには分割表示用のHTMLが含まれています。
 
 ---
@@ -41,6 +41,7 @@ https://kimuranao1.github.io/chess-mate-gallery400/
 
 
 zenodoでの全データ３２９５種です (https://zenodo.org/records/16749162)
+
 
 
 
